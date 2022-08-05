@@ -5,6 +5,7 @@
 
 ## Results: 
 - The table below shows the total count of retirement age employees categorized by position title.
+
  ![image](https://user-images.githubusercontent.com/106709942/182975010-17c8ad2f-6b47-4c1d-891a-ccf009173c6f.png)
 - The positions most affected by the silver tsunami wil be *Senior Engineer* and *Senior Staff*.
 - There are over ~70,000 current employees within the retiring age of 1952 to 1955. (72,458)
