@@ -14,7 +14,7 @@
 
 ## Summary: 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-  - As the wave of retirements begins to make an splash, Pewlett-Hackard will need to train or hire new employees to fill these vacant positions. Eventually, there will need to be 72,45 roles filled across the company.
+  - As the wave of retirements begins to make a splash, Pewlett-Hackard will need to train or hire new employees to fill these vacant positions. Eventually, there will need to be 72,45 roles filled across the company.
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
   -  Not enough at all, with only 1549 current eligble mentors. 
 
