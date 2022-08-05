@@ -3,8 +3,6 @@
 - To provide insight on the upcoming "silver tsunami" as many current employees reach retirement.
 - To determine the number of retiring employees per title, and identify employees who are eligible to particapte in a mentorship progeam.
 
-- Overview of the analysis: Explain the purpose of this analysis.
-
 ## Results: 
 - The table below shows the total count of retirement age employees categorized by position title.
  ![image](https://user-images.githubusercontent.com/106709942/182975010-17c8ad2f-6b47-4c1d-891a-ccf009173c6f.png)
